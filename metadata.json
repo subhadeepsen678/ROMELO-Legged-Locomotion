@@ -1,0 +1,6 @@
+{
+  "name": "LRSP — Legged Robotics Simulation & Research Platform",
+  "description": "Browser-native, physics-accurate, algorithm-transparent simulation environment for quadrupedal and bipedal robot locomotion research with dual-preview 3D trajectory tracking, ZMP planning, symmetry-guided gait FSM, Euler-Lagrange dynamics, CI-MPC, and Gazebo-class 3D visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
